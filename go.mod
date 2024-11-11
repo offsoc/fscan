@@ -15,11 +15,11 @@ require (
 	github.com/sijms/go-ora/v2 v2.5.29
 	github.com/stacktitan/smb v0.0.0-20190531122847-da9a425dceb8
 	github.com/tomatome/grdp v0.0.0-20211231062539-be8adab7eaf3
-	golang.org/x/crypto v0.3.0
-	golang.org/x/net v0.7.0
-	golang.org/x/text v0.7.0
+	golang.org/x/crypto v0.17.0
+	golang.org/x/net v0.10.0
+	golang.org/x/text v0.14.0
 	google.golang.org/genproto v0.0.0-20221027153422-115e99e71e1c
-	google.golang.org/protobuf v1.28.1
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
 )
@@ -44,9 +44,9 @@ require (
 	go.uber.org/tools v0.0.0-20190618225709-2cfd321de3ee // indirect
 	go.uber.org/zap v1.14.0 // indirect
 	golang.org/x/lint v0.0.0-20190930215403-16217165b5de // indirect
-	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
-	golang.org/x/sys v0.5.0 // indirect
-	golang.org/x/tools v0.1.12 // indirect
+	golang.org/x/mod v0.8.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/tools v0.6.0 // indirect
 	honnef.co/go/tools v0.0.1-2019.2.3 // indirect
 )
 
